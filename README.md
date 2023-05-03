@@ -1,2 +1,2 @@
 "# image-gallery" 
-"# accordion-menu" 
+
